@@ -1,0 +1,14 @@
+# sdm845-userdebug 8.0.0 OPR1.170623.032 eng.iotlab.20180319.165225 test-keys
+- manufacturer: qualcomm
+- platform: sdm845
+- codename: sdm845
+- flavor: sdm845-userdebug
+- release: 8.0.0
+- id: OPR1.170623.032
+- incremental: eng.iotlab.20180319.165225
+- tags: test-keys
+- fingerprint: Android/sdm845/sdm845:8.0.0/OPR1.170623.032/iotlab03191652:userdebug/test-keys
+- is_ab: true
+- brand: Android
+- branch: sdm845-userdebug-8.0.0-OPR1.170623.032-eng.iotlab.20180319.165225-test-keys
+- repo: android_sdm845_dump
