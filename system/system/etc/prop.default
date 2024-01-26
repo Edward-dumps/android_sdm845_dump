@@ -1,0 +1,14 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.debuggable=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Mar 19 16:52:25 CDT 2018
+ro.bootimage.build.date.utc=1521496345
+ro.bootimage.build.fingerprint=Android/sdm845/sdm845:8.0.0/OPR1.170623.032/iotlab03191652:userdebug/test-keys
+persist.sys.usb.config=adb
